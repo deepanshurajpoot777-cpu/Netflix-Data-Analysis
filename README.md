@@ -146,5 +146,3 @@ The program will generate the visualizations and save them as PNG files.
 This project was created to practice **Python data analysis and visualization** using a real-world dataset.
 
 
-
-⭐ If you found this project useful, consider giving it a star!
